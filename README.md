@@ -10,7 +10,7 @@ Este é um projeto de exemplo para um blog desenvolvido com Node.js e Quasar Fra
 
 - Node.js >= versão 20
 - yarn >= 1.22
-- Quasar CLI (caso ainda não tenha instalado, execute `yarn add -g @quasar/cli`)
+- Quasar CLI (caso ainda não tenha instalado, execute `yarn global add @quasar/cli`)
 
 ## Configuração do Projeto
 
